@@ -491,10 +491,16 @@
 	.program-section.alternate,
 	.events-section.style-two,
 	.news-section-two,
-	.news-section,
-	.team-section,
-	.offers-section{
+	.team-section{
 		padding: 70px 0 40px;
+	}
+
+	.news-section{
+		padding: 0 0 0;
+	}
+
+	.offers-section{
+		padding: 70px 0 0;
 	}
 
 	.contact-form-section,
